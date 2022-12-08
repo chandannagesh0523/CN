@@ -1,0 +1,29 @@
+body{
+  background-color:goldenrod;
+}
+h1{
+  color:ghostwhite;
+}
+p{
+  color: black;
+  font-style: italic;
+}
+
+h2{
+  color:ghostwhite;
+}
+h3{
+  color:ghostwhite;
+}
+h4{
+  color:ghostwhite;
+}
+ul{
+  color: black;
+}
+hr{
+  border-style: dotted;
+  width: 250px;
+  border-bottom: none;
+  border-width: thick;
+}
