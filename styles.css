@@ -1,29 +1,38 @@
 body{
-  background-color:goldenrod;
+  background-color:rgb(17, 16, 16);
 }
 h1{
-  color:ghostwhite;
+  color:rgb(243, 243, 251);
 }
 p{
-  color: black;
+  color: rgb(239, 221, 221);
   font-style: italic;
 }
 
 h2{
-  color:ghostwhite;
+  color:rgb(225, 218, 15);
 }
 h3{
-  color:ghostwhite;
+  color:rgb(213, 207, 19);
 }
 h4{
-  color:ghostwhite;
+  color:rgb(240, 236, 20);
 }
 ul{
-  color: black;
+  color: rgb(229, 229, 220);
 }
 hr{
   border-style: dotted;
   width: 250px;
   border-bottom: none;
   border-width: thick;
+}
+td{
+  color: aliceblue;
+}
+li{
+  color: aliceblue;
+}
+label{
+  color: aliceblue;
 }
